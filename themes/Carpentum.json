@@ -1,26 +1,32 @@
 {
-  "brand": {
-    "primary": {
-      "value": "#5850EC",
-      "type": "color",
-      "description": "Primary brand color"
-    },
-    "black": {
-      "value": "#000",
-      "type": "color"
-    },
-    "white": {
-      "value": "#FFF",
-      "type": "color"
+  "color": {
+    "theme": {
+      "primary": {
+        "value": "#5850EC",
+        "type": "color",
+        "description": "Primary brand color"
+      },
+      "black": {
+        "value": "#000",
+        "type": "color"
+      },
+      "white": {
+        "value": "#FFF",
+        "type": "color"
+      }
     }
   },
-  "main": {
-    "value": "Roboto",
-    "type": "fontFamilies",
-    "description": "Test"
+  "fontFamily": {
+    "main": {
+      "value": "Roboto",
+      "type": "fontFamilies",
+      "description": "Test"
+    }
   },
-  "md": {
-    "value": "13px",
-    "type": "fontSizes"
+  "fontSize": {
+    "md": {
+      "value": "13px",
+      "type": "fontSizes"
+    }
   }
 }
