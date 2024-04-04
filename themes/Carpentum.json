@@ -1,0 +1,9 @@
+{
+  "brand": {
+    "primary": {
+      "value": "#5850EC",
+      "type": "color",
+      "description": "Primary brand color"
+    }
+  }
+}
