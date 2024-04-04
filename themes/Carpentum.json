@@ -1,6 +1,6 @@
 {
   "color": {
-    "theme": {
+    "baseToken": {
       "primary": {
         "value": "#5850EC",
         "type": "color",
@@ -12,6 +12,12 @@
       },
       "white": {
         "value": "#FFF",
+        "type": "color"
+      }
+    },
+    "mainToken": {
+      "border": {
+        "value": "{color.baseToken.black}",
         "type": "color"
       }
     }
