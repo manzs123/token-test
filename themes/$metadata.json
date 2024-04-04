@@ -1,9 +1,5 @@
 {
   "tokenSetOrder": [
-    "Global",
-    "Carpentum/Majn",
-    "Carpentum/Majn_Copy",
-    "AseanPay",
-    "ChaloPay"
+    "Carpentum/LightMode"
   ]
 }

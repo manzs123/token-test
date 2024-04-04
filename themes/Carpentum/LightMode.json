@@ -1,0 +1,286 @@
+{
+  "color": {
+    "base": {
+      "black": {
+        "value": "#000000",
+        "type": "color",
+        "description": "Black color",
+        "$extensions": {
+          "studio.tokens": {}
+        }
+      },
+      "white": {
+        "value": "#FFFFFF",
+        "type": "color",
+        "description": "White color",
+        "$extensions": {
+          "studio.tokens": {}
+        }
+      },
+      "purple-495": {
+        "value": "#313D6D",
+        "type": "color"
+      },
+      "purple-327": {
+        "value": "#3F51B5",
+        "type": "color"
+      },
+      "purple-265": {
+        "value": "#5850EC",
+        "type": "color"
+      },
+      "purple-182": {
+        "value": "#7973EF",
+        "type": "color"
+      },
+      "purple-87": {
+        "value": "#B0BCFF",
+        "type": "color"
+      },
+      "purple-729": {
+        "value": "#17176B",
+        "type": "color"
+      },
+      "pink-209": {
+        "value": "#EA1F50",
+        "type": "color"
+      },
+      "gray-517": {
+        "value": "#3D3D3D",
+        "type": "color"
+      },
+      "gray-226": {
+        "value": "#737373",
+        "type": "color"
+      },
+      "gray-89": {
+        "value": "#BDBDBD",
+        "type": "color"
+      },
+      "gray-60": {
+        "value": "#E4E4E4",
+        "type": "color"
+      },
+      "gray-53": {
+        "value": "#F2F2F2",
+        "type": "color"
+      },
+      "gray-50": {
+        "value": "#F9F9F9",
+        "type": "color"
+      },
+      "bluegray-626": {
+        "value": "#263238",
+        "type": "color"
+      },
+      "bluegray-345": {
+        "value": "#455A64",
+        "type": "color"
+      },
+      "bluegray-257": {
+        "value": "#546E7A",
+        "type": "color"
+      },
+      "bluegray-90": {
+        "value": "#B0BEC5",
+        "type": "color"
+      },
+      "bluegray-54": {
+        "value": "#ECEFF1",
+        "type": "color"
+      },
+      "blue-243": {
+        "value": "#006DD1",
+        "type": "color"
+      },
+      "blue-114": {
+        "value": "#48AEFF",
+        "type": "color"
+      },
+      "blue-52": {
+        "value": "#E5F6FD",
+        "type": "color"
+      },
+      "red-238": {
+        "value": "#DC1A1A",
+        "type": "color"
+      },
+      "red-54": {
+        "value": "#FDEDED",
+        "type": "color"
+      },
+      "orange-148": {
+        "value": "#ED6C02",
+        "type": "color"
+      },
+      "orange-53": {
+        "value": "#FFEFD8",
+        "type": "color"
+      },
+      "green-132": {
+        "value": "#4CAF50",
+        "type": "color"
+      },
+      "green-52": {
+        "value": "#EDF7ED",
+        "type": "color"
+      }
+    },
+    "main": {
+      "primary": {
+        "value": "{color.base.purple-265}",
+        "type": "color",
+        "description": "Primary Brand Color"
+      },
+      "links": {
+        "value": "{color.base.blue-243}",
+        "type": "color",
+        "description": "Hyperlink color",
+        "$extensions": {
+          "studio.tokens": {}
+        }
+      },
+      "text-heading": {
+        "value": "{color.base.gray-517}",
+        "type": "color",
+        "description": "Heading text color",
+        "$extensions": {
+          "studio.tokens": {}
+        }
+      },
+      "text-body": {
+        "value": "{color.base.gray-517}",
+        "type": "color",
+        "description": "Body text color",
+        "$extensions": {
+          "studio.tokens": {}
+        }
+      },
+      "semantics-info": {
+        "value": "{color.base.blue-243}",
+        "type": "color",
+        "description": "Element color with info semantics",
+        "$extensions": {
+          "studio.tokens": {}
+        }
+      },
+      "semantics-success": {
+        "value": "{color.base.green-132}",
+        "type": "color",
+        "description": "Element color with success semantics",
+        "$extensions": {
+          "studio.tokens": {}
+        }
+      },
+      "semantics-caution": {
+        "value": "{color.base.orange-148}",
+        "type": "color",
+        "description": "Element color with caution semantics",
+        "$extensions": {
+          "studio.tokens": {}
+        }
+      },
+      "semantics-danger": {
+        "value": "{color.base.red-238}",
+        "type": "color",
+        "description": "Element color with danger semantics",
+        "$extensions": {
+          "studio.tokens": {}
+        }
+      },
+      "background-info": {
+        "value": "{color.base.blue-52}",
+        "type": "color",
+        "description": "Background with info semantics",
+        "$extensions": {
+          "studio.tokens": {}
+        }
+      },
+      "background-danger": {
+        "value": "{color.base.red-54}",
+        "type": "color",
+        "description": "Background with danger semantics",
+        "$extensions": {
+          "studio.tokens": {}
+        }
+      },
+      "background-success": {
+        "value": "{color.base.green-52}",
+        "type": "color",
+        "description": "Background with success semantics",
+        "$extensions": {
+          "studio.tokens": {}
+        }
+      },
+      "background-warning": {
+        "value": "{color.base.orange-53}",
+        "type": "color",
+        "description": "Background with caution semantics",
+        "$extensions": {
+          "studio.tokens": {}
+        }
+      },
+      "background-body": {
+        "value": "{color.base.gray-53}",
+        "type": "color",
+        "description": "Background of the body of the webpage",
+        "$extensions": {
+          "studio.tokens": {}
+        }
+      },
+      "background-app": {
+        "value": "{color.base.gray-50}",
+        "type": "color",
+        "description": "Background of the app",
+        "$extensions": {
+          "studio.tokens": {}
+        }
+      },
+      "background-section": {
+        "value": "{color.base.white}",
+        "type": "color",
+        "description": "Background of each sections in the app",
+        "$extensions": {
+          "studio.tokens": {}
+        }
+      },
+      "background-dialogbox": {
+        "value": "{color.base.white}",
+        "type": "color",
+        "description": "Background of Dialog boxes",
+        "$extensions": {
+          "studio.tokens": {}
+        }
+      },
+      "background-snackbarDefault": {
+        "value": "{color.base.gray-517}",
+        "type": "color",
+        "description": "Default snackbar background color",
+        "$extensions": {
+          "studio.tokens": {}
+        }
+      }
+    }
+  },
+  "fontFamily": {
+    "primary": {
+      "value": "Roboto",
+      "type": "fontFamilies",
+      "description": "Carpentum font",
+      "$extensions": {
+        "studio.tokens": {}
+      }
+    }
+  },
+  "fontWeight": {
+    "regular": {
+      "value": "400",
+      "type": "fontWeights",
+      "description": "Regular weight"
+    },
+    "bold": {
+      "value": "700",
+      "type": "fontWeights"
+    }
+  }
+}
