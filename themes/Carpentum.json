@@ -13,5 +13,14 @@
       "value": "#FFF",
       "type": "color"
     }
+  },
+  "main": {
+    "value": "Roboto",
+    "type": "fontFamilies",
+    "description": "Test"
+  },
+  "md": {
+    "value": "13px",
+    "type": "fontSizes"
   }
 }
