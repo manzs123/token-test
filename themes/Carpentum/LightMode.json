@@ -282,5 +282,243 @@
       "value": "700",
       "type": "fontWeights"
     }
+  },
+  "lineHeight": {
+    "small": {
+      "value": "140%",
+      "type": "lineHeights"
+    },
+    "big": {
+      "value": "120%",
+      "type": "lineHeights"
+    }
+  },
+  "fontSize": {
+    "10": {
+      "value": "10px",
+      "type": "fontSizes"
+    },
+    "12": {
+      "value": "12px",
+      "type": "fontSizes"
+    },
+    "13": {
+      "value": "13px",
+      "type": "fontSizes"
+    },
+    "14": {
+      "value": "14px",
+      "type": "fontSizes"
+    },
+    "16": {
+      "value": "16px",
+      "type": "fontSizes"
+    },
+    "18": {
+      "value": "18px",
+      "type": "fontSizes"
+    },
+    "20": {
+      "value": "20px",
+      "type": "fontSizes"
+    },
+    "24": {
+      "value": "24px",
+      "type": "fontSizes"
+    },
+    "30": {
+      "value": "30px",
+      "type": "fontSizes"
+    }
+  },
+  "borderRadius": {
+    "4": {
+      "value": "4px",
+      "type": "borderRadius"
+    },
+    "10": {
+      "value": "10px",
+      "type": "borderRadius"
+    },
+    "12": {
+      "value": "12px",
+      "type": "borderRadius"
+    },
+    "20": {
+      "value": "20px",
+      "type": "borderRadius"
+    }
+  },
+  "textDeco": {
+    "underline": {
+      "value": "underline",
+      "type": "textDecoration"
+    },
+    "strikethrough": {
+      "value": "line-through",
+      "type": "textDecoration"
+    }
+  },
+  "typography": {
+    "heading1": {
+      "value": {
+        "fontFamily": "{fontFamily.primary}",
+        "fontWeight": "{fontWeight.bold}",
+        "fontSize": "{fontSize.30}",
+        "lineHeight": "{lineHeight.big}"
+      },
+      "type": "typography",
+      "description": "Use: Titles, headings"
+    },
+    "heading2": {
+      "value": {
+        "fontFamily": "{fontFamily.primary}",
+        "fontWeight": "{fontWeight.bold}",
+        "fontSize": "{fontSize.24}",
+        "lineHeight": "{lineHeight.big}"
+      },
+      "type": "typography",
+      "description": "Use:Title, headings"
+    },
+    "heading3": {
+      "value": {
+        "fontFamily": "{fontFamily.primary}",
+        "fontWeight": "{fontWeight.bold}",
+        "fontSize": "{fontSize.20}",
+        "lineHeight": "{lineHeight.small}"
+      },
+      "type": "typography",
+      "description": "Use:Title, headings"
+    },
+    "heading4": {
+      "value": {
+        "fontFamily": "{fontFamily.primary}",
+        "fontWeight": "{fontWeight.bold}",
+        "fontSize": "{fontSize.18}",
+        "lineHeight": "{lineHeight.small}"
+      },
+      "type": "typography",
+      "description": "Use:Title, headings"
+    },
+    "heading5": {
+      "value": {
+        "fontFamily": "{fontFamily.primary}",
+        "fontWeight": "{fontWeight.bold}",
+        "fontSize": "{fontSize.16}",
+        "lineHeight": "{lineHeight.small}"
+      },
+      "type": "typography",
+      "description": "Use:Title, headings"
+    },
+    "heading6": {
+      "value": {
+        "fontFamily": "{fontFamily.primary}",
+        "fontWeight": "{fontWeight.bold}",
+        "fontSize": "{fontSize.13}",
+        "lineHeight": "{lineHeight.small}"
+      },
+      "type": "typography",
+      "description": "Use:Title, headings"
+    },
+    "body-big": {
+      "value": {
+        "fontFamily": "{fontFamily.primary}",
+        "fontWeight": "{fontWeight.regular}",
+        "fontSize": "{fontSize.18}",
+        "lineHeight": "{lineHeight.small}"
+      },
+      "type": "typography",
+      "description": "Use: Paragraphs, body texts"
+    },
+    "body-medium": {
+      "value": {
+        "fontFamily": "{fontFamily.primary}",
+        "fontWeight": "{fontWeight.regular}",
+        "fontSize": "{fontSize.16}",
+        "lineHeight": "{lineHeight.small}"
+      },
+      "type": "typography",
+      "description": "Use: Paragraphs, body texts"
+    },
+    "body-regular": {
+      "value": {
+        "fontFamily": "{fontFamily.primary}",
+        "fontWeight": "{fontWeight.regular}",
+        "fontSize": "{fontSize.13}",
+        "lineHeight": "{lineHeight.small}"
+      },
+      "type": "typography",
+      "description": "Use: Paragraphs, body texts"
+    },
+    "body-small": {
+      "value": {
+        "fontFamily": "{fontFamily.primary}",
+        "fontWeight": "{fontWeight.regular}",
+        "fontSize": "{fontSize.12}",
+        "lineHeight": "{lineHeight.small}"
+      },
+      "type": "typography",
+      "description": "Use: Paragraphs, body texts"
+    },
+    "body-extrasmall": {
+      "value": {
+        "fontFamily": "{fontFamily.primary}",
+        "fontWeight": "{fontWeight.regular}",
+        "fontSize": "{fontSize.10}",
+        "lineHeight": "{lineHeight.small}"
+      },
+      "type": "typography",
+      "description": "Use: Paragraphs, body texts"
+    },
+    "links--underlined": {
+      "value": {
+        "fontFamily": "{fontFamily.primary}",
+        "fontWeight": "{fontWeight.regular}",
+        "fontSize": "{fontSize.13}",
+        "lineHeight": "{lineHeight.small}",
+        "textDecoration": "{textDeco.underline}"
+      },
+      "type": "typography"
+    },
+    "links-noline": {
+      "value": {
+        "fontFamily": "{fontFamily.primary}",
+        "fontWeight": "{fontWeight.regular}",
+        "fontSize": "{fontSize.13}",
+        "lineHeight": "{lineHeight.small}"
+      },
+      "type": "typography",
+      "description": "Use: links"
+    },
+    "label--button": {
+      "value": {
+        "fontFamily": "{fontFamily.primary}",
+        "fontWeight": "{fontWeight.bold}",
+        "fontSize": "{fontSize.14}",
+        "lineHeight": "{lineHeight.small}"
+      },
+      "type": "typography",
+      "description": "Use: Button"
+    },
+    "label--input": {
+      "value": {
+        "fontFamily": "{fontFamily.primary}",
+        "fontWeight": "{fontWeight.regular}",
+        "fontSize": "{fontSize.14}",
+        "lineHeight": "{lineHeight.small}"
+      },
+      "type": "typography",
+      "description": "Use: Inputs"
+    },
+    "label-inputplaceholder": {
+      "value": {
+        "fontFamily": "{fontFamily.primary}",
+        "fontWeight": "{fontWeight.regular}",
+        "fontSize": "{fontSize.12}",
+        "lineHeight": "{lineHeight.small}"
+      },
+      "type": "typography",
+      "description": "Use: Placeholder when input is clicked"
+    }
   }
 }
