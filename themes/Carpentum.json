@@ -4,6 +4,14 @@
       "value": "#5850EC",
       "type": "color",
       "description": "Primary brand color"
+    },
+    "black": {
+      "value": "#000",
+      "type": "color"
+    },
+    "white": {
+      "value": "#FFF",
+      "type": "color"
     }
   }
 }
