@@ -1,1 +1,155 @@
-[]
+[
+  {
+    "id": "f1946a1754285d2a74e386cec1326f2dc6cc2640",
+    "name": "Carpentum",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "Carpentum/light_mode": "source"
+    },
+    "group": "Brand"
+  },
+  {
+    "id": "fdd4dee70d32db569c53f1a795c605a2562c09e0",
+    "name": "AseanPay",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "AseanPay/light_mode": "source"
+    },
+    "group": "Brand"
+  },
+  {
+    "id": "5eb7f7b5e60803806356ada240137828fc47788e",
+    "name": "ChaloPay",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "ChaloPay/light_mode": "source"
+    },
+    "group": "Brand"
+  },
+  {
+    "id": "4853fe491542fb67632fe917a86bafe511332bda",
+    "name": "Echelon",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "Echelon/light_mode": "source"
+    },
+    "group": "Brand"
+  },
+  {
+    "id": "822336b0ce3522b09dbd83b41e2b6019fee81324",
+    "name": "Wanwei",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "Wanwei/light_mode": "source"
+    },
+    "group": "Brand"
+  },
+  {
+    "id": "8c2396f75f6c6829408c714eba15be64e2da650d",
+    "name": "HakuPay",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "Hakupay/light_mode": "source"
+    },
+    "group": "Brand"
+  },
+  {
+    "id": "934d5865da902d953be3913e08cc723d9282071f",
+    "name": "Crypto",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "Crypto/light_mode": "source"
+    },
+    "group": "Brand"
+  },
+  {
+    "id": "c4d05d5120029ad43a38a1a53e9a0ab56678b4fc",
+    "name": "LFI",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "LFI/light_mode": "source"
+    },
+    "group": "Brand"
+  },
+  {
+    "id": "6f6b2d43fc12c78a0186f6a946596ee17206d222",
+    "name": "PayRoyale",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "PayRoyale/light_mode": "source"
+    },
+    "group": "Brand"
+  },
+  {
+    "id": "e977f3b97593fcf1f1b1fe5d04effe4698fc81ab",
+    "name": "SpinPay",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "SpinPay/light_mode": "source"
+    },
+    "group": "Brand"
+  },
+  {
+    "id": "e0ee25870bacc57f6bcf77b771ac516e20339bc8",
+    "name": "FlashPay",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "FlashPay/light_mode": "source"
+    },
+    "group": "Brand"
+  },
+  {
+    "id": "b5d58912c063a3db3ad8771ef90d5f17fd8ff6a8",
+    "name": "JPPay",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "JPPay/light_mode": "source"
+    },
+    "group": "Brand"
+  },
+  {
+    "id": "d78b2ea2aa1d226b9def9bf6ced884b434415da7",
+    "name": "Payversa",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "Payversa/light_mode": "source"
+    },
+    "group": "Brand"
+  },
+  {
+    "id": "0664ef079eca2894e6199cb6064ed889e6def98f",
+    "name": "AOPay",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "AOPay/light_mode": "source"
+    },
+    "group": "Brand"
+  },
+  {
+    "id": "09a61404e0707b8ada54ea1d6fc0b02a39ad43fd",
+    "name": "ZapEFT",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "ZapEFT/light_mode": "source"
+    },
+    "group": "Brand"
+  },
+  {
+    "id": "56f2c13ed99f3906527ae14da1204f6bfb60fd8c",
+    "name": "ProjectFE",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "ProjectFE/light_mode": "source"
+    },
+    "group": "Brand"
+  },
+  {
+    "id": "dd0de301d334b70c97c0fbab72992726fe28e3b8",
+    "name": "UltraTrading",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "UltraTrading/light_mode": "source"
+    },
+    "group": "Brand"
+  }
+]

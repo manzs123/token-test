@@ -1,0 +1,525 @@
+{
+  "color": {
+    "base": {
+      "black": {
+        "value": "#000000",
+        "type": "color",
+        "description": "Black color",
+        "$extensions": {
+          "studio.tokens": {}
+        }
+      },
+      "white": {
+        "value": "#FFFFFF",
+        "type": "color",
+        "description": "White color",
+        "$extensions": {
+          "studio.tokens": {}
+        }
+      },
+      "gray-517": {
+        "value": "#3D3D3D",
+        "type": "color"
+      },
+      "gray-226": {
+        "value": "#737373",
+        "type": "color"
+      },
+      "gray-89": {
+        "value": "#BDBDBD",
+        "type": "color"
+      },
+      "gray-60": {
+        "value": "#E4E4E4",
+        "type": "color"
+      },
+      "gray-53": {
+        "value": "#F2F2F2",
+        "type": "color"
+      },
+      "gray-50": {
+        "value": "#F9F9F9",
+        "type": "color"
+      },
+      "bluegray-626": {
+        "value": "#263238",
+        "type": "color"
+      },
+      "bluegray-345": {
+        "value": "#455A64",
+        "type": "color"
+      },
+      "bluegray-257": {
+        "value": "#546E7A",
+        "type": "color"
+      },
+      "bluegray-90": {
+        "value": "#B0BEC5",
+        "type": "color"
+      },
+      "bluegray-54": {
+        "value": "#ECEFF1",
+        "type": "color"
+      },
+      "blue-243": {
+        "value": "#006DD1",
+        "type": "color"
+      },
+      "blue-114": {
+        "value": "#48AEFF",
+        "type": "color"
+      },
+      "blue-52": {
+        "value": "#E5F6FD",
+        "type": "color"
+      },
+      "red-238": {
+        "value": "#DC1A1A",
+        "type": "color"
+      },
+      "red-54": {
+        "value": "#FDEDED",
+        "type": "color"
+      },
+      "orange-148": {
+        "value": "#ED6C02",
+        "type": "color"
+      },
+      "orange-53": {
+        "value": "#FFEFD8",
+        "type": "color"
+      },
+      "green-132": {
+        "value": "#4CAF50",
+        "type": "color"
+      },
+      "green-52": {
+        "value": "#EDF7ED",
+        "type": "color"
+      },
+      "blue-352": {
+        "value": "#2D5789",
+        "type": "color"
+      },
+      "green-166": {
+        "value": "#2C9A79",
+        "type": "color"
+      },
+      "green-124": {
+        "value": "#2BB673",
+        "type": "color"
+      },
+      "green-57": {
+        "value": "#D8EFE9",
+        "type": "color"
+      },
+      "gray-207": {
+        "value": "#747A7F",
+        "type": "color"
+      }
+    },
+    "main": {
+      "primary": {
+        "value": "{color.base.blue-352}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {}
+        },
+        "description": "Primary Brand Color"
+      },
+      "links": {
+        "value": "{color.base.blue-243}",
+        "type": "color",
+        "description": "Hyperlink color",
+        "$extensions": {
+          "studio.tokens": {}
+        }
+      },
+      "text-heading": {
+        "value": "{color.base.gray-517}",
+        "type": "color",
+        "description": "Heading text color",
+        "$extensions": {
+          "studio.tokens": {}
+        }
+      },
+      "text-body": {
+        "value": "{color.base.gray-517}",
+        "type": "color",
+        "description": "Body text color",
+        "$extensions": {
+          "studio.tokens": {}
+        }
+      },
+      "semantics-info": {
+        "value": "{color.base.blue-243}",
+        "type": "color",
+        "description": "Element color with info semantics",
+        "$extensions": {
+          "studio.tokens": {}
+        }
+      },
+      "semantics-success": {
+        "value": "{color.base.green-132}",
+        "type": "color",
+        "description": "Element color with success semantics",
+        "$extensions": {
+          "studio.tokens": {}
+        }
+      },
+      "semantics-caution": {
+        "value": "{color.base.orange-148}",
+        "type": "color",
+        "description": "Element color with caution semantics",
+        "$extensions": {
+          "studio.tokens": {}
+        }
+      },
+      "semantics-danger": {
+        "value": "{color.base.red-238}",
+        "type": "color",
+        "description": "Element color with danger semantics",
+        "$extensions": {
+          "studio.tokens": {}
+        }
+      },
+      "background-info": {
+        "value": "{color.base.blue-52}",
+        "type": "color",
+        "description": "Background with info semantics",
+        "$extensions": {
+          "studio.tokens": {}
+        }
+      },
+      "background-danger": {
+        "value": "{color.base.red-54}",
+        "type": "color",
+        "description": "Background with danger semantics",
+        "$extensions": {
+          "studio.tokens": {}
+        }
+      },
+      "background-success": {
+        "value": "{color.base.green-52}",
+        "type": "color",
+        "description": "Background with success semantics",
+        "$extensions": {
+          "studio.tokens": {}
+        }
+      },
+      "background-warning": {
+        "value": "{color.base.orange-53}",
+        "type": "color",
+        "description": "Background with caution semantics",
+        "$extensions": {
+          "studio.tokens": {}
+        }
+      },
+      "background-body": {
+        "value": "{color.base.gray-53}",
+        "type": "color",
+        "description": "Background of the body of the webpage",
+        "$extensions": {
+          "studio.tokens": {}
+        }
+      },
+      "background-app": {
+        "value": "{color.base.gray-50}",
+        "type": "color",
+        "description": "Background of the app",
+        "$extensions": {
+          "studio.tokens": {}
+        }
+      },
+      "background-section": {
+        "value": "{color.base.white}",
+        "type": "color",
+        "description": "Background of each sections in the app",
+        "$extensions": {
+          "studio.tokens": {}
+        }
+      },
+      "background-dialogbox": {
+        "value": "{color.base.white}",
+        "type": "color",
+        "description": "Background of Dialog boxes",
+        "$extensions": {
+          "studio.tokens": {}
+        }
+      },
+      "background-snackbarDefault": {
+        "value": "{color.base.gray-517}",
+        "type": "color",
+        "description": "Default snackbar background color",
+        "$extensions": {
+          "studio.tokens": {}
+        }
+      },
+      "border-default": {
+        "value": "{color.base.gray-60}",
+        "type": "color"
+      },
+      "text-label": {
+        "value": "{color.base.white}",
+        "type": "color"
+      },
+      "text-subtext": {
+        "value": "{color.base.gray-226}",
+        "type": "color"
+      }
+    }
+  },
+  "fontFamily": {
+    "primary": {
+      "value": "Nunito",
+      "type": "fontFamilies",
+      "$extensions": {
+        "studio.tokens": {}
+      },
+      "description": "AseanPay font"
+    }
+  },
+  "fontWeight": {
+    "regular": {
+      "value": "400",
+      "type": "fontWeights",
+      "description": "Regular weight"
+    },
+    "bold": {
+      "value": "700",
+      "type": "fontWeights"
+    }
+  },
+  "lineHeight": {
+    "small": {
+      "value": "140%",
+      "type": "lineHeights"
+    },
+    "big": {
+      "value": "120%",
+      "type": "lineHeights"
+    }
+  },
+  "fontSize": {
+    "10": {
+      "value": "10px",
+      "type": "fontSizes"
+    },
+    "12": {
+      "value": "12px",
+      "type": "fontSizes"
+    },
+    "13": {
+      "value": "13px",
+      "type": "fontSizes"
+    },
+    "14": {
+      "value": "14px",
+      "type": "fontSizes"
+    },
+    "16": {
+      "value": "16px",
+      "type": "fontSizes"
+    },
+    "18": {
+      "value": "18px",
+      "type": "fontSizes"
+    },
+    "20": {
+      "value": "20px",
+      "type": "fontSizes"
+    },
+    "24": {
+      "value": "24px",
+      "type": "fontSizes"
+    },
+    "30": {
+      "value": "30px",
+      "type": "fontSizes"
+    }
+  },
+  "textDeco": {
+    "underline": {
+      "value": "underline",
+      "type": "textDecoration"
+    },
+    "strikethrough": {
+      "value": "line-through",
+      "type": "textDecoration"
+    }
+  },
+  "typography": {
+    "heading1": {
+      "value": {
+        "fontFamily": "{fontFamily.primary}",
+        "fontWeight": "{fontWeight.bold}",
+        "fontSize": "{fontSize.30}",
+        "lineHeight": "{lineHeight.big}"
+      },
+      "type": "typography",
+      "description": "Use: Titles, headings"
+    },
+    "heading2": {
+      "value": {
+        "fontFamily": "{fontFamily.primary}",
+        "fontWeight": "{fontWeight.bold}",
+        "fontSize": "{fontSize.24}",
+        "lineHeight": "{lineHeight.big}"
+      },
+      "type": "typography",
+      "description": "Use:Title, headings"
+    },
+    "heading3": {
+      "value": {
+        "fontFamily": "{fontFamily.primary}",
+        "fontWeight": "{fontWeight.bold}",
+        "fontSize": "{fontSize.20}",
+        "lineHeight": "{lineHeight.small}"
+      },
+      "type": "typography",
+      "description": "Use:Title, headings"
+    },
+    "heading4": {
+      "value": {
+        "fontFamily": "{fontFamily.primary}",
+        "fontWeight": "{fontWeight.bold}",
+        "fontSize": "{fontSize.18}",
+        "lineHeight": "{lineHeight.small}"
+      },
+      "type": "typography",
+      "description": "Use:Title, headings"
+    },
+    "heading5": {
+      "value": {
+        "fontFamily": "{fontFamily.primary}",
+        "fontWeight": "{fontWeight.bold}",
+        "fontSize": "{fontSize.16}",
+        "lineHeight": "{lineHeight.small}"
+      },
+      "type": "typography",
+      "description": "Use:Title, headings"
+    },
+    "heading6": {
+      "value": {
+        "fontFamily": "{fontFamily.primary}",
+        "fontWeight": "{fontWeight.bold}",
+        "fontSize": "{fontSize.13}",
+        "lineHeight": "{lineHeight.small}"
+      },
+      "type": "typography",
+      "description": "Use:Title, headings"
+    },
+    "body-big": {
+      "value": {
+        "fontFamily": "{fontFamily.primary}",
+        "fontWeight": "{fontWeight.regular}",
+        "fontSize": "{fontSize.18}",
+        "lineHeight": "{lineHeight.small}"
+      },
+      "type": "typography",
+      "description": "Use: Paragraphs, body texts"
+    },
+    "body-medium": {
+      "value": {
+        "fontFamily": "{fontFamily.primary}",
+        "fontWeight": "{fontWeight.regular}",
+        "fontSize": "{fontSize.16}",
+        "lineHeight": "{lineHeight.small}"
+      },
+      "type": "typography",
+      "description": "Use: Paragraphs, body texts"
+    },
+    "body-regular": {
+      "value": {
+        "fontFamily": "{fontFamily.primary}",
+        "fontWeight": "{fontWeight.regular}",
+        "fontSize": "{fontSize.13}",
+        "lineHeight": "{lineHeight.small}"
+      },
+      "type": "typography",
+      "description": "Use: Paragraphs, body texts"
+    },
+    "body-small": {
+      "value": {
+        "fontFamily": "{fontFamily.primary}",
+        "fontWeight": "{fontWeight.regular}",
+        "fontSize": "{fontSize.12}",
+        "lineHeight": "{lineHeight.small}"
+      },
+      "type": "typography",
+      "description": "Use: Paragraphs, body texts"
+    },
+    "body-extrasmall": {
+      "value": {
+        "fontFamily": "{fontFamily.primary}",
+        "fontWeight": "{fontWeight.regular}",
+        "fontSize": "{fontSize.10}",
+        "lineHeight": "{lineHeight.small}"
+      },
+      "type": "typography",
+      "description": "Use: Paragraphs, body texts"
+    },
+    "links--underlined": {
+      "value": {
+        "fontFamily": "{fontFamily.primary}",
+        "fontWeight": "{fontWeight.regular}",
+        "fontSize": "{fontSize.13}",
+        "lineHeight": "{lineHeight.small}",
+        "textDecoration": "{textDeco.underline}"
+      },
+      "type": "typography"
+    },
+    "links-noline": {
+      "value": {
+        "fontFamily": "{fontFamily.primary}",
+        "fontWeight": "{fontWeight.regular}",
+        "fontSize": "{fontSize.13}",
+        "lineHeight": "{lineHeight.small}"
+      },
+      "type": "typography",
+      "description": "Use: links"
+    },
+    "label--button": {
+      "value": {
+        "fontFamily": "{fontFamily.primary}",
+        "fontWeight": "{fontWeight.bold}",
+        "fontSize": "{fontSize.14}",
+        "lineHeight": "{lineHeight.small}"
+      },
+      "type": "typography",
+      "description": "Use: Button"
+    },
+    "label--input": {
+      "value": {
+        "fontFamily": "{fontFamily.primary}",
+        "fontWeight": "{fontWeight.regular}",
+        "fontSize": "{fontSize.14}",
+        "lineHeight": "{lineHeight.small}"
+      },
+      "type": "typography",
+      "description": "Use: Inputs"
+    },
+    "label-inputplaceholder": {
+      "value": {
+        "fontFamily": "{fontFamily.primary}",
+        "fontWeight": "{fontWeight.regular}",
+        "fontSize": "{fontSize.12}",
+        "lineHeight": "{lineHeight.small}"
+      },
+      "type": "typography",
+      "description": "Use: Placeholder when input is clicked"
+    }
+  },
+  "textCase": {
+    "uppercase": {
+      "value": "uppercase",
+      "type": "textCase",
+      "description": "Uppercase texts"
+    },
+    "lowercase": {
+      "value": "lowercase",
+      "type": "textCase",
+      "description": "Text with lowercase"
+    }
+  }
+}

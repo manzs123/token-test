@@ -17,34 +17,6 @@
           "studio.tokens": {}
         }
       },
-      "purple-495": {
-        "value": "#313D6D",
-        "type": "color"
-      },
-      "purple-327": {
-        "value": "#3F51B5",
-        "type": "color"
-      },
-      "purple-265": {
-        "value": "#5850EC",
-        "type": "color"
-      },
-      "purple-182": {
-        "value": "#7973EF",
-        "type": "color"
-      },
-      "purple-87": {
-        "value": "#B0BCFF",
-        "type": "color"
-      },
-      "purple-729": {
-        "value": "#17176B",
-        "type": "color"
-      },
-      "pink-209": {
-        "value": "#EA1F50",
-        "type": "color"
-      },
       "gray-517": {
         "value": "#3D3D3D",
         "type": "color"
@@ -124,12 +96,27 @@
       "green-52": {
         "value": "#EDF7ED",
         "type": "color"
+      },
+      "maroon-820": {
+        "value": "#2D1319",
+        "type": "color"
+      },
+      "maroon-523": {
+        "value": "#701C38",
+        "type": "color"
+      },
+      "maroon-309": {
+        "value": "#8C495F",
+        "type": "color"
       }
     },
     "main": {
       "primary": {
-        "value": "{color.base.purple-265}",
+        "value": "{color.base.maroon-523}",
         "type": "color",
+        "$extensions": {
+          "studio.tokens": {}
+        },
         "description": "Primary Brand Color"
       },
       "links": {
@@ -259,14 +246,26 @@
         "$extensions": {
           "studio.tokens": {}
         }
+      },
+      "border-default": {
+        "value": "{color.base.gray-60}",
+        "type": "color"
+      },
+      "text-label": {
+        "value": "{color.base.white}",
+        "type": "color"
+      },
+      "text-subtext": {
+        "value": "{color.base.gray-226}",
+        "type": "color"
       }
     }
   },
   "fontFamily": {
     "primary": {
-      "value": "Roboto",
+      "value": "Inter",
       "type": "fontFamilies",
-      "description": "Carpentum font",
+      "description": "AO Pay font",
       "$extensions": {
         "studio.tokens": {}
       }
@@ -329,24 +328,6 @@
     "30": {
       "value": "30px",
       "type": "fontSizes"
-    }
-  },
-  "borderRadius": {
-    "4": {
-      "value": "4px",
-      "type": "borderRadius"
-    },
-    "10": {
-      "value": "10px",
-      "type": "borderRadius"
-    },
-    "12": {
-      "value": "12px",
-      "type": "borderRadius"
-    },
-    "20": {
-      "value": "20px",
-      "type": "borderRadius"
     }
   },
   "textDeco": {
@@ -519,6 +500,18 @@
       },
       "type": "typography",
       "description": "Use: Placeholder when input is clicked"
+    }
+  },
+  "textCase": {
+    "uppercase": {
+      "value": "uppercase",
+      "type": "textCase",
+      "description": "Uppercase texts"
+    },
+    "lowercase": {
+      "value": "lowercase",
+      "type": "textCase",
+      "description": "Text with lowercase"
     }
   }
 }

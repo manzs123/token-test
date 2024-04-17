@@ -1,5 +1,21 @@
 {
   "tokenSetOrder": [
-    "Carpentum/LightMode"
+    "Carpentum/light_mode",
+    "Echelon/light_mode",
+    "ChaloPay/light_mode",
+    "Wanwei/light_mode",
+    "Hakupay/light_mode",
+    "AseanPay/light_mode",
+    "LFI/light_mode",
+    "PayRoyale/light_mode",
+    "SpinPay/light_mode",
+    "FlashPay/light_mode",
+    "JPPay/light_mode",
+    "Crypto/light_mode",
+    "Payversa/light_mode",
+    "AOPay/light_mode",
+    "ZapEFT/light_mode",
+    "UltraTrading/light_mode",
+    "ProjectFE/light_mode"
   ]
 }
