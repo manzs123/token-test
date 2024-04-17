@@ -128,7 +128,7 @@
     },
     "main": {
       "primary": {
-        "value": "{color.base.purple-265}",
+        "value": "{color.base.purple-182}",
         "type": "color",
         "description": "Primary Brand Color"
       },
