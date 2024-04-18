@@ -1,0 +1,19 @@
+{
+  "name": "token-studio-test",
+  "version": "1.0.0",
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build:styleDictionary": "node ./config.js"
+  },
+  "type": "module",
+  "keywords": [],
+  "license": "ISC",
+  "dependencies": {
+    "style-dictionary": "^4.0.0-prerelease.24"
+  },
+  "devDependencies": {
+    "@tokens-studio/sd-transforms": "^0.15.2"
+  }
+}
