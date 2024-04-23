@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Tue, 23 Apr 2024 06:25:05 GMT
+ * Generated on Tue, 23 Apr 2024 06:29:20 GMT
  */
 
 export const colorBaseBlack = "#000000"; // Black color
@@ -31,10 +31,10 @@ export const colorMainPrimary = "#9D3ADF"; // Primary Brand Color
 export const colorMainLinks = "#006DD1"; // Hyperlink color
 export const colorMainTextHeading = "#3D3D3D"; // Heading text color
 export const colorMainTextBody = "#3D3D3D"; // Body text color
-export const colorMainSemanticsInfo = "#006DD1"; // Element color with info semantics
-export const colorMainSemanticsSuccess = "#4CAF50"; // Element color with success semantics
-export const colorMainSemanticsCaution = "#ED6C02"; // Element color with caution semantics
-export const colorMainSemanticsDanger = "#DC1A1A"; // Element color with danger semantics
+export const colorMainInfo = "#006DD1"; // Element color with info semantics
+export const colorMainSuccess = "#4CAF50"; // Element color with success semantics
+export const colorMainCaution = "#ED6C02"; // Element color with caution semantics
+export const colorMainDanger = "#DC1A1A"; // Element color with danger semantics
 export const colorMainBackgroundInfo = "#E5F6FD"; // Background with info semantics
 export const colorMainBackgroundDanger = "#FDEDED"; // Background with danger semantics
 export const colorMainBackgroundSuccess = "#EDF7ED"; // Background with success semantics
