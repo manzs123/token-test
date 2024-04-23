@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Wed, 17 Apr 2024 10:18:56 GMT
+ * Generated on Tue, 23 Apr 2024 06:25:05 GMT
  */
 
 export const colorBaseBlack = "#000000"; // Black color
@@ -51,7 +51,6 @@ export const colorMainBackgroundSnackbarDefault = "#3D3D3D"; // Default snackbar
 export const colorMainBorderDefault = "#E4E4E4";
 export const colorMainTextLabel = "#FFFFFF";
 export const colorMainTextSubtext = "#737373";
-export const fontFamilyPrimary = "Manrope"; // Flash Pay font
 export const fontWeightRegular = "400"; // Regular weight
 export const fontWeightBold = "700";
 export const lineHeightSmall = 1.4;
@@ -67,21 +66,6 @@ export const fontSize24 = "24px";
 export const fontSize30 = "30px";
 export const textDecoUnderline = "underline";
 export const textDecoStrikethrough = "line-through";
-export const typographyHeading1 = "700 30px/1.2 Manrope"; // Use: Titles, headings
-export const typographyHeading2 = "700 24px/1.2 Manrope"; // Use:Title, headings
-export const typographyHeading3 = "700 20px/1.4 Manrope"; // Use:Title, headings
-export const typographyHeading4 = "700 18px/1.4 Manrope"; // Use:Title, headings
-export const typographyHeading5 = "700 16px/1.4 Manrope"; // Use:Title, headings
-export const typographyHeading6 = "700 13px/1.4 Manrope"; // Use:Title, headings
-export const typographyBodyBig = "400 18px/1.4 Manrope"; // Use: Paragraphs, body texts
-export const typographyBodyMedium = "400 16px/1.4 Manrope"; // Use: Paragraphs, body texts
-export const typographyBodyRegular = "400 13px/1.4 Manrope"; // Use: Paragraphs, body texts
-export const typographyBodySmall = "400 12px/1.4 Manrope"; // Use: Paragraphs, body texts
-export const typographyBodyExtrasmall = "400 10px/1.4 Manrope"; // Use: Paragraphs, body texts
-export const typographyLinksUnderlined = "400 13px/1.4 Manrope";
-export const typographyLinksNoline = "400 13px/1.4 Manrope"; // Use: links
-export const typographyLabelButton = "700 14px/1.4 Manrope"; // Use: Button
-export const typographyLabelInput = "400 14px/1.4 Manrope"; // Use: Inputs
-export const typographyLabelInputplaceholder = "400 12px/1.4 Manrope"; // Use: Placeholder when input is clicked
 export const textCaseUppercase = "uppercase"; // Uppercase texts
 export const textCaseLowercase = "lowercase"; // Text with lowercase
+export const fontFamilyPrimary = "Manrope";
