@@ -128,7 +128,7 @@
     },
     "main": {
       "primary": {
-        "value": "{color.base.purple-182}",
+        "value": "{color.base.purple-327}",
         "type": "color",
         "description": "Primary Brand Color"
       },
@@ -164,37 +164,37 @@
         "value": "{color.base.white}",
         "type": "color"
       },
-      "semantics-info": {
+      "info": {
         "value": "{color.base.blue-243}",
         "type": "color",
-        "description": "Element color with info semantics",
         "$extensions": {
           "studio.tokens": {}
-        }
+        },
+        "description": "Element color with info semantics"
       },
-      "semantics-success": {
+      "success": {
         "value": "{color.base.green-132}",
         "type": "color",
-        "description": "Element color with success semantics",
         "$extensions": {
           "studio.tokens": {}
-        }
+        },
+        "description": "Element color with success semantics"
       },
-      "semantics-caution": {
+      "caution": {
         "value": "{color.base.orange-148}",
         "type": "color",
-        "description": "Element color with caution semantics",
         "$extensions": {
           "studio.tokens": {}
-        }
+        },
+        "description": "Element color with caution semantics"
       },
-      "semantics-danger": {
+      "danger": {
         "value": "{color.base.red-238}",
         "type": "color",
-        "description": "Element color with danger semantics",
         "$extensions": {
           "studio.tokens": {}
-        }
+        },
+        "description": "Element color with danger semantics"
       },
       "background-info": {
         "value": "{color.base.blue-52}",
