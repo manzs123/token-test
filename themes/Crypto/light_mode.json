@@ -254,6 +254,14 @@
       "text-subtext": {
         "value": "{color.base.gray-226}",
         "type": "color"
+      },
+      "iconBtn": {
+        "value": "{color.base.gray-517}",
+        "type": "color"
+      },
+      "text-alert": {
+        "value": "{color.base.bluegray-345}",
+        "type": "color"
       }
     }
   },
