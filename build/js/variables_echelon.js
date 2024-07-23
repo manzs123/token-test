@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Tue, 23 Apr 2024 06:29:20 GMT
+ * Generated on Tue, 23 Jul 2024 07:32:43 GMT
  */
 
 export const colorBaseBlack = "#000000"; // Black color
@@ -51,6 +51,8 @@ export const colorMainBackgroundApp = "#F9F9F9"; // Background of the app
 export const colorMainBackgroundSection = "#FFFFFF"; // Background of each sections in the app
 export const colorMainBackgroundDialogbox = "#FFFFFF"; // Background of Dialog boxes
 export const colorMainBackgroundSnackbarDefault = "#3D3D3D"; // Default snackbar background color
+export const colorMainIconBtn = "#3D3D3D";
+export const colorMainTextAlert = "#455A64";
 export const fontFamilyPrimary = "Rubik"; // Echelon font
 export const fontWeightRegular = "400"; // Regular weight
 export const fontWeightBold = "700";

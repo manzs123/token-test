@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Tue, 23 Apr 2024 06:29:20 GMT
+ * Generated on Tue, 23 Jul 2024 07:32:43 GMT
  */
 
 export const colorBaseBlack = "#000000"; // Black color
@@ -49,6 +49,8 @@ export const colorMainBackgroundSnackbarDefault = "#3D3D3D"; // Default snackbar
 export const colorMainBorderDefault = "#E4E4E4";
 export const colorMainTextLabel = "#FFFFFF";
 export const colorMainTextSubtext = "#737373";
+export const colorMainIconBtn = "#3D3D3D";
+export const colorMainTextAlert = "#455A64";
 export const fontFamilyPrimary = "Inter"; // Zap EFT font
 export const fontWeightRegular = "400"; // Regular weight
 export const fontWeightBold = "700";
