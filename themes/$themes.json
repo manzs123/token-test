@@ -12,6 +12,18 @@
     "$figmaVariableReferences": {}
   },
   {
+    "id": "f1946a1754285d2a74e386cec1326f2dc6cc1234",
+    "name": "Base",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "Base/light_mode": "source"
+    },
+    "group": "Brand",
+    "$figmaCollectionId": "VariableCollectionId:1:1494",
+    "$figmaModeId": "1:0",
+    "$figmaVariableReferences": {}
+  },
+  {
     "id": "fdd4dee70d32db569c53f1a795c605a2562c09e0",
     "name": "AseanPay",
     "$figmaStyleReferences": {},
@@ -144,13 +156,6 @@
     "selectedTokenSets": {
       "ZapEFT/light_mode": "source"
     },
-    "group": "Brand"
-  },
-  {
-    "id": "56f2c13ed99f3906527ae14da1204f6bfb60fd8c",
-    "name": "ProjectFE",
-    "$figmaStyleReferences": {},
-    "selectedTokenSets": {},
     "group": "Brand"
   },
   {

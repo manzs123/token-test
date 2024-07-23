@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Tue, 23 Jul 2024 07:32:43 GMT
+ * Generated on Tue, 23 Jul 2024 09:39:58 GMT
  */
 
 export const colorBaseBlack = "#000000"; // Black color
