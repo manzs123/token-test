@@ -1,6 +1,9 @@
 {
   "tokenSetOrder": [
+    "Base/light_mode",
+    "Base/dark_mode",
     "Carpentum/light_mode",
+    "Carpentum/dark_mode",
     "Echelon/light_mode",
     "ChaloPay/light_mode",
     "Wanwei/light_mode",

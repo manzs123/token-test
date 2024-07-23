@@ -1,0 +1,128 @@
+{
+  "color": {
+    "base": {
+      "black": {
+        "value": "#000000",
+        "type": "color",
+        "description": "Black color",
+        "$extensions": {
+          "studio.tokens": {}
+        }
+      },
+      "white": {
+        "value": "#FFFFFF",
+        "type": "color",
+        "description": "White color",
+        "$extensions": {
+          "studio.tokens": {}
+        }
+      },
+      "gray-517": {
+        "value": "#3D3D3D",
+        "type": "color"
+      },
+      "gray-226": {
+        "value": "#737373",
+        "type": "color"
+      },
+      "gray-89": {
+        "value": "#BDBDBD",
+        "type": "color"
+      },
+      "gray-60": {
+        "value": "#E4E4E4",
+        "type": "color"
+      },
+      "gray-53": {
+        "value": "#F2F2F2",
+        "type": "color"
+      },
+      "gray-50": {
+        "value": "#F9F9F9",
+        "type": "color"
+      },
+      "bluegray-626": {
+        "value": "#263238",
+        "type": "color"
+      },
+      "bluegray-345": {
+        "value": "#455A64",
+        "type": "color"
+      },
+      "bluegray-257": {
+        "value": "#546E7A",
+        "type": "color"
+      },
+      "bluegray-90": {
+        "value": "#B0BEC5",
+        "type": "color"
+      },
+      "bluegray-54": {
+        "value": "#ECEFF1",
+        "type": "color"
+      },
+      "blue-243": {
+        "value": "#006DD1",
+        "type": "color"
+      },
+      "blue-114": {
+        "value": "#48AEFF",
+        "type": "color"
+      },
+      "blue-52": {
+        "value": "#E5F6FD",
+        "type": "color"
+      },
+      "red-238": {
+        "value": "#DC1A1A",
+        "type": "color"
+      },
+      "red-54": {
+        "value": "#FDEDED",
+        "type": "color"
+      },
+      "orange-148": {
+        "value": "#ED6C02",
+        "type": "color"
+      },
+      "orange-53": {
+        "value": "#FFEFD8",
+        "type": "color"
+      },
+      "green-132": {
+        "value": "#4CAF50",
+        "type": "color"
+      },
+      "green-52": {
+        "value": "#EDF7ED",
+        "type": "color"
+      },
+      "gray-776": {
+        "value": "#231F20",
+        "type": "color"
+      },
+      "gray-549": {
+        "value": "#373A36",
+        "type": "color"
+      },
+      "gray-365": {
+        "value": "#505454",
+        "type": "color"
+      },
+      "gray-129": {
+        "value": "#90A19D",
+        "type": "color"
+      },
+      "gray-237": {
+        "value": "#6E7071",
+        "type": "color"
+      }
+    },
+    "main": {
+      "background-section": {
+        "value": "{color.base.white}",
+        "type": "color"
+      }
+    }
+  }
+}
